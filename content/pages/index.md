@@ -46,7 +46,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Gallery of Me
-    subtitle: This is the subtitle
+    subtitle: 'Prepare Thine self, fair maidens ;)'
     images:
       - type: ImageBlock
         url: /images/sick-shades.PNG
