@@ -177,7 +177,7 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/crew_rizz.PNG
