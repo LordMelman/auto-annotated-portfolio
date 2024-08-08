@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-a
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       Welcome to the Super Special Davis Ross-Boss Bachelor Weekend Fun
       Website!!1!
