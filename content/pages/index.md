@@ -65,7 +65,7 @@ sections:
         height: auto
         width: full
         padding:
-          - pt-0
+          - pt-5
           - pb-0
           - pl-0
           - pr-0
