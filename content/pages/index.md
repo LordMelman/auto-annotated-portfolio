@@ -70,6 +70,8 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        margin:
+          - ml-6
       title:
         textAlign: center
       subtitle:
