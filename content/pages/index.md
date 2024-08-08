@@ -73,7 +73,7 @@ sections:
         margin:
           - ml-24
           - mr-24
-          - mb-36
+          - mb-0
       title:
         textAlign: center
       subtitle:
