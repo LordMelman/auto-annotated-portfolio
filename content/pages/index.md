@@ -45,7 +45,7 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: Gallery
+    title: Gallery of Me
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
