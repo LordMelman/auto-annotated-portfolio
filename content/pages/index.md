@@ -71,7 +71,7 @@ sections:
           - pr-4
         justifyContent: center
         margin:
-          - ml-6
+          - ml-24
           - mr-16
       title:
         textAlign: center
