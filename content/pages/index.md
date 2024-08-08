@@ -83,7 +83,7 @@ sections:
       “People get built different. We don't need to figure it out, we just need
       to respect it.”
 
-    name: Me probably lol
+    name: Me probably
     title: lol
     colors: colors-f
     elementId: ''
