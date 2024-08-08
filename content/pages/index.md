@@ -16,7 +16,7 @@ sections:
     title: >-
       Welcome to the Super Special Davis Ross-Boss Bachelor Weekend Fun
       Website!!1!
-    subtitle: 'prepare thine self, fair maidens'
+    subtitle: ''
     styles:
       self:
         height: auto
