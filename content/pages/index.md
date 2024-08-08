@@ -16,7 +16,7 @@ sections:
     title: >-
       Welcome to the Super Special Davis Rossboss Bachelor Weekend Funtime Website !!1!
     subtitle: >-
-      Tee hee
+      Prepare thine self
     styles:
       self:
         height: auto
