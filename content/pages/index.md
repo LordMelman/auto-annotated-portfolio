@@ -44,6 +44,19 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: MediaGallerySection
     title: Gallery of Me
     subtitle: 'Prepare Thine self, fair maidens ;)'
@@ -65,7 +78,7 @@ sections:
         height: auto
         width: full
         padding:
-          - pt-0
+          - pt-5
           - pb-0
           - pl-0
           - pr-0
@@ -79,11 +92,12 @@ sections:
       subtitle:
         textAlign: center
   - type: QuoteSection
-    quote: >
-      “**People get built different. We don't need to figure it out, we just
-      need to respect it.**”
-    name: '-PB'
-    title: '--Davis'
+    quote: >+
+      “People get built different. We don't need to figure it out, we just need
+      to respect it.”
+
+    name: Me probably
+    title: lol
     colors: colors-f
     elementId: ''
     styles:
@@ -97,11 +111,38 @@ sections:
           - pr-4
         justifyContent: center
       quote:
-        textAlign: left
+        textAlign: center
       name:
         fontWeight": 500
-        textAlign: left
+        textAlign: center
       title:
         fontWeight": 400
-        textAlign: left
+        textAlign: center
+  - type: QuoteSection
+    quote: >+
+      "You just gotta imagine that every bruise is a hickey from the universe.
+      And everyone wants to get with the universe"
+
+    name: Davis "the Universe" RossBoss
+    title: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
 ---
