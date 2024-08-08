@@ -137,7 +137,7 @@ sections:
       to respect it.”
 
     name: PB
-    title: Product Marketing Manager at Acme
+    title: '--Davis'
     colors: colors-f
     elementId: ''
     styles:
