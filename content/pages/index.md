@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-c
     backgroundSize: inset
     title: >-
       Welcome to the Super Special Davis Ross-Boss Bachelor Weekend Fun
