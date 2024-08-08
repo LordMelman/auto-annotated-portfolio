@@ -180,7 +180,7 @@ sections:
       "I am not afraid of an army of lions led by a sheep; I am afraid of an
       army of sheep led by a lion."
     name: Davis-xander the Great
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
