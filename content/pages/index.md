@@ -111,7 +111,7 @@ sections:
       And everyone wants to get with the universe"
 
     name: Davis "the Universe" RossBoss
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
