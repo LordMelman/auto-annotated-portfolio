@@ -175,4 +175,60 @@ sections:
       title:
         fontWeight": 400
         textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/crew_rizz.PNG
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 1
+    aspectRatio: auto
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: QuoteSection
+    quote: >
+      "I am not afraid of an army of lions led by a sheep; I am afraid of an
+      army of sheep led by a lion."
+    name: Davis-xander the Great
+    title: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
 ---
