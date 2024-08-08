@@ -118,33 +118,6 @@ sections:
       title:
         fontWeight": 400
         textAlign: center
-  - type: QuoteSection
-    quote: >+
-      "You just gotta imagine that every bruise is a hickey from the universe.
-      And everyone wants to get with the universe"
-
-    name: Davis "the Universe" RossBoss
-    title: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        fontWeight": 500
-        textAlign: center
-      title:
-        fontWeight": 400
-        textAlign: center
   - type: MediaGallerySection
     title: ''
     subtitle: ''
@@ -174,5 +147,32 @@ sections:
       title:
         textAlign: center
       subtitle:
+        textAlign: center
+  - type: QuoteSection
+    quote: >+
+      "You just gotta imagine that every bruise is a hickey from the universe.
+      And everyone wants to get with the universe"
+
+    name: Davis "the Universe" RossBoss
+    title: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
         textAlign: center
 ---
