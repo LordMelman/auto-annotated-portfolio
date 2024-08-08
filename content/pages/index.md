@@ -131,4 +131,31 @@ sections:
       title:
         fontWeight": 400
         textAlign: center
+  - type: QuoteSection
+    quote: >+
+      “People get built different. We don't need to figure it out, we just need
+      to respect it.”
+
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
 ---
