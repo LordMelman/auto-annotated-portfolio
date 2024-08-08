@@ -147,7 +147,7 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/yoked.PNG
