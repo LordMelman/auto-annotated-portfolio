@@ -60,7 +60,7 @@ sections:
         elementId: ''
     colors: colors-f
     spacing: 16
-    columns: 2
+    columns: 1
     aspectRatio: auto
     showCaption: false
     enableHover: true
