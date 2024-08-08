@@ -136,7 +136,7 @@ sections:
       “People get built different. We don't need to figure it out, we just need
       to respect it.”
 
-    name: Johnna Doe
+    name: PB
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
