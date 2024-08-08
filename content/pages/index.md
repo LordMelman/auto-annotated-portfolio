@@ -118,6 +118,36 @@ sections:
       title:
         fontWeight": 400
         textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/yoked.PNG
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 1
+    aspectRatio: auto
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: QuoteSection
     quote: >+
       "You just gotta imagine that every bruise is a hickey from the universe.
