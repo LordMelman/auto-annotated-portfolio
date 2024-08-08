@@ -49,11 +49,6 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/nosebleed.PNG
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/sick-shades.PNG
         altText: Image two
         caption: Image two caption
