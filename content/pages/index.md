@@ -110,7 +110,7 @@ sections:
       "You just gotta imagine that every bruise is a hickey from the universe.
       And everyone wants to get with the universe"
 
-    name: Johnna Doe
+    name: Davis "the Universe" RossBoss
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
