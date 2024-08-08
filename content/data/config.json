@@ -1,4 +1,9 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg"
+    "favicon": "/images/favicon.svg",
+    "styles": {
+        "self": {
+            "width": "full"
+        }
+    }
 }
