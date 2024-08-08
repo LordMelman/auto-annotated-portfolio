@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/post-2.jpg
+  url: /images/HD-wallpaper-adventure-time-finn-jake.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
