@@ -106,32 +106,6 @@ sections:
         fontWeight": 400
         textAlign: center
   - type: QuoteSection
-    quote: >
-      “**People get built different. We don't need to figure it out, we just
-      need to respect it.**”
-    name: '-PB'
-    title: '--Davis'
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight": 500
-        textAlign: left
-      title:
-        fontWeight": 400
-        textAlign: left
-  - type: QuoteSection
     quote: >+
       "You just gotta imagine that every bruise is a hickey from the universe.
       And everyone wants to get with the universe"
