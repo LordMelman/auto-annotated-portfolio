@@ -54,7 +54,7 @@ sections:
         caption: Image two caption
         elementId: ''
     colors: colors-f
-    spacing: 16
+    spacing: 65
     columns: 1
     aspectRatio: '1:1'
     showCaption: false
