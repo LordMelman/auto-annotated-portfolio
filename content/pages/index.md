@@ -48,7 +48,7 @@ sections:
     quote: >
       “**People get built different. We don't need to figure it out, we just
       need to respect it.**”
-    name: PB
+    name: '-PB'
     title: '- Davis'
     colors: colors-f
     elementId: ''
