@@ -83,7 +83,7 @@ sections:
       “**People get built different. We don't need to figure it out, we just
       need to respect it.**”
     name: '-PB'
-    title: '- - Davis'
+    title: '--Davis'
     colors: colors-f
     elementId: ''
     styles:
