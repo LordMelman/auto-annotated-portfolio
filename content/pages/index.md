@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Welcome to the Super Special Davis Ross-Boss Bachelor Weekend Fun Website!!1!
+title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -13,8 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Welcome to the Super Special Davis Ross-Boss Bachelor Weekend Fun Website!!1!
-    subtitle: (prepare thine self)
+    title: >-
+      Welcome to the Super Special Davis Rossboss Bachelor Weekend Funtime Website !!1!
+    subtitle: >-
+      Tee hee
     styles:
       self:
         height: auto
@@ -31,9 +33,15 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: row-reverse
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
----
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
+  
