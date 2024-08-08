@@ -84,7 +84,7 @@ sections:
       to respect it.”
 
     name: Me probably lol
-    title: '--Davis'
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
