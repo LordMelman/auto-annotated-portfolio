@@ -19,7 +19,7 @@ sections:
     subtitle: 'prepare thine self, fair maidens'
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
