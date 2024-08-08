@@ -56,7 +56,7 @@ sections:
     colors: colors-f
     spacing: 65
     columns: 1
-    aspectRatio: '4:3'
+    aspectRatio: auto
     showCaption: false
     enableHover: true
     elementId: ''
@@ -65,10 +65,10 @@ sections:
         height: auto
         width: full
         padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-0
         justifyContent: center
         margin:
           - ml-24
