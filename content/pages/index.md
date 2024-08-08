@@ -49,7 +49,7 @@ sections:
       “**People get built different. We don't need to figure it out, we just
       need to respect it.**”
     name: PB
-    title: Product Marketing Manager at Acme
+    title: '- Davis'
     colors: colors-f
     elementId: ''
     styles:
