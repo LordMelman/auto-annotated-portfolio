@@ -150,7 +150,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/nosebleed.PNG
+        url: /images/yoked.PNG
         altText: Image one
         caption: Image one caption
         elementId: ''
