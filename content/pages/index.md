@@ -49,7 +49,7 @@ sections:
     subtitle: 'Prepare Thine self, fair maidens ;)'
     images:
       - type: ImageBlock
-        url: /images/sick-shades.PNG
+        url: /images/condnse.PNG
         altText: Image two
         caption: Image two caption
         elementId: ''
